@@ -1,4 +1,6 @@
-# Pigmy, Big Brother watches for you! Be a Free Giant - use a local `[i2pchat](https://github.com/i2pchat/i2pchat)` app!
+# Pigmy, Big Brother watches for you!
+
+# Be a Free Giant - use a local `[i2pchat](https://github.com/i2pchat/i2pchat)` app!
 
 <!--
 
